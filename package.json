@@ -1,0 +1,26 @@
+{
+  "name": "coursera-node-mongodb-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gagandeep39/coursera-node-mongodb-demo.git"
+  },
+  "keywords": [],
+  "author": "Gagandeep Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gagandeep39/coursera-node-mongodb-demo/issues"
+  },
+  "homepage": "https://github.com/Gagandeep39/coursera-node-mongodb-demo#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.3"
+  }
+}
